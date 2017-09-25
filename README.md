@@ -13,4 +13,6 @@
 ................................................
 ```
 Script en Bash destinado a la descarga automatizada de ficheros a partir de un listado y una ruta común.
-# 
+
+# Demo
+[![demo](https://asciinema.org/a/139326.png)](https://asciinema.org/a/139326?autoplay=1)
